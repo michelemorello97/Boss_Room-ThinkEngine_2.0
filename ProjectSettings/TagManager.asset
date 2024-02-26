@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8c80414c6128b1578c110d3ad72690943f5bddac547991cf54d55b66ce3c0960
-size 671
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NavigationSystem
+  - CMCamera
+  - HeroActionBar
+  - HeroEmoteBar
+  - GameCanvas
+  - PartyHUD
+  - GameNetPortal
+  - MusicPlayer
+  - LightingBaked
+  - LightingRealtime
+  - LightingProbes
+  - LightingReflectionProbe
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PCs
+  - Water
+  - UI
+  - NPCs
+  - Projectiles
+  - Ground
+  - FloorSwitch
+  - Environment
+  - Debris
+  - 
+  - 
+  - ExtraParticles
+  - ExtraGeometry
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
